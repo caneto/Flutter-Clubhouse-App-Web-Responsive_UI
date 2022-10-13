@@ -1,4 +1,4 @@
-package com.flutter_clubhouse_app_web_desktop
+package com.clubhouse
 
 import io.flutter.embedding.android.FlutterActivity
 
